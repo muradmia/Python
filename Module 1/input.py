@@ -1,0 +1,6 @@
+age = input()
+count = input()
+# age_1 = int(age)
+# count_int = int(count)
+print(type(age))
+print("this is your number : ",age+count)
